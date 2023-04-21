@@ -5,7 +5,7 @@
 Make sure to have:
 
 * Java 11 [installed](https://sdkman.io/usage)
-* Spring CLI [installed](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.installing.cli) (make sure not to install version 3 or later, since the run command has been removed since 3.x)
+* Spring Boot CLI [installed](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.installing.cli) (make sure not to install version 3 or later, since the run command has been removed since 3.x)
 * Docker [installed](https://docs.docker.com/get-docker/)
 
 ## Blogpost
